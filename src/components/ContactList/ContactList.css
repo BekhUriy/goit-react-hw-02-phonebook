@@ -7,9 +7,7 @@
   display: flex;
   padding: 10px;
   gap: 10px;
-  /* border-bottom: 1px solid #eee; */
   align-items: center;
-  /* justify-content: center; */
   flex-direction: column;
 }
 
